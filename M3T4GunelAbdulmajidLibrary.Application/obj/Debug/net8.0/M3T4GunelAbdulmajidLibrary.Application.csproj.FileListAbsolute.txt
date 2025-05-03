@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.deps.json
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\refint\M3T4GunelAbdulmajidLibrary.Application.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\ref\M3T4GunelAbdulmajidLibrary.Application.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Infrastructure.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Application\obj\Debug\net8.0\M3T4Gune.0FCB3877.Up2Date

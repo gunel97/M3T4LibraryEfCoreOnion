@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.deps.json
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\bin\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\refint\M3T4GunelAbdulmajidLibrary.Domain.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.pdb
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\ref\M3T4GunelAbdulmajidLibrary.Domain.dll
+C:\Users\Lenovo\source\repos\M3T4GunelAbdulmajidLibrary\M3T4GunelAbdulmajidLibrary.Domain\obj\Debug\net8.0\M3T4GunelAbdulmajidLibrary.Domain.csproj.AssemblyReference.cache
